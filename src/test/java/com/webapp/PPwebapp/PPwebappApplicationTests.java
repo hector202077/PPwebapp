@@ -1,10 +1,10 @@
-package com.hrbookzy.webapp;
+package com.webapp.PPwebapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class WebappApplicationTests {
+class PPwebappApplicationTests {
 
 	@Test
 	void contextLoads() {
